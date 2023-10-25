@@ -7,7 +7,7 @@ You remember learning previously that cohorts analysis can be really helpful in 
 You should use turing_data_analytics.subscriptions table to answer this question. Please write a SQL that would extract data from the BigQuery, make a visualisation using Google spreadsheets and briefly comment your findings.
 
 ## Results, Conclusions & Comments
-data-pull.sql was used to pull out required information. Google Slides were used for visualization. Retention rates were investigated by week cohorts and then split by device type.
+retention-data-pull.sql was used to pull out required information. Google Slides were used for visualization. Retention rates were investigated by week cohorts and then split by device type.
 
 Retention rate by week cohorts-
 ![alt_text](https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/22ceae5df360dba90f9f42479870baf994fa749e/Main-Analysis-Types/Retention-Cohorts-Churn/retention_cohorts.png)
