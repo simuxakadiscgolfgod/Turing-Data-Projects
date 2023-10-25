@@ -1,5 +1,5 @@
 # Turing-Data-Projects
-This repository contains main projects done while studying data analytics course in Turing college (2023-02 batch). The course contained 4 modules with multiple sprints:  
+This repository contains main projects done while studying data analytics at Turing college (2023-02 batch). The course contained 4 modules with multiple sprints:  
 
 * Introduction to Data Analytics
   - Structured Approach to Data Analytics 
