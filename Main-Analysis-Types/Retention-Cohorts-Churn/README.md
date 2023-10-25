@@ -10,5 +10,5 @@ You should use turing_data_analytics.subscriptions table to answer this question
 data-pull.sql was used to pull out required information. Google Slides were used for visualization. Retention rate were investigated by week cohorts and then split by device type.
 
 Retention rate by week cohorts-
-https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/22ceae5df360dba90f9f42479870baf994fa749e/Main-Analysis-Types/Retention-Cohorts-Churn/retention_cohorts.png
+[!alt]https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/22ceae5df360dba90f9f42479870baf994fa749e/Main-Analysis-Types/Retention-Cohorts-Churn/retention_cohorts.png
 
