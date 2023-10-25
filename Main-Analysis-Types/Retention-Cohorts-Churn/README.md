@@ -12,3 +12,6 @@ data-pull.sql was used to pull out required information. Google Slides were used
 Retention rate by week cohorts-
 ![alt_text](https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/22ceae5df360dba90f9f42479870baf994fa749e/Main-Analysis-Types/Retention-Cohorts-Churn/retention_cohorts.png)
 
+Retention rate by week cohorts split by device-
+![alt_text](https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/28f4a42c5f60707e3d02f582890e917794183c6f/Main-Analysis-Types/Retention-Cohorts-Churn/retention_device.png)
+
