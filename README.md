@@ -22,4 +22,4 @@ This repository contains main projects done while studying data analytics at Tur
   - Marketing Analyst
   - Payment/Monetization Analyst
 
- The grand 'Capstone' project  was done with data on traffic accidents in Lithuania. The Capstone project is located [here].
+ The grand 'Capstone' project  was done with data on traffic accidents in Lithuania. The Capstone project is located [here](https://github.com/simuxakadiscgolfgod/Capstone-Project).
