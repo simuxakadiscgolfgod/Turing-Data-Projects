@@ -11,5 +11,5 @@ You should use tables from olist_db to come up with an analysis on your own. You
 * Do not forget how you should structure your presentation which you learnt during the first sprint of the first module.
 
 ## Results
-Presentation slides are uploaded under Payment-Analyst-Task-Presentation.pdf.
+Presentation slides are uploaded under Payment-Analyst-Task-Presentation.pdf.  
 Dashboard used for data analysis can be found [here](https://public.tableau.com/views/PaymentMonetizationAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
