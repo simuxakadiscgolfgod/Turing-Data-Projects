@@ -19,16 +19,16 @@ Number of unique work orders.
 Number of unique products.
 Total actual cost.
 For each location Id from the 'workoderrouting' table for orders in January 2004.
-https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/211755dbdb85cf68ffcf0d17135c643348101392/Big-Query-Tasks/Basic-SQL/2-1.sql#L1-L9
+https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/b3d240ae6391cbbde7cadbb3c8696ec6357ef5dc/Big-Query-Tasks/Basic-SQL/2-1.sql#L1-L9
 ## Task 2.2
 Update your 2.1 query by adding the name of the location and also add the average days amount between actual start date and actual end date per each location.
-https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/211755dbdb85cf68ffcf0d17135c643348101392/Big-Query-Tasks/Basic-SQL/2-2.sql#L1-L13
+https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/b3d240ae6391cbbde7cadbb3c8696ec6357ef5dc/Big-Query-Tasks/Basic-SQL/2-2.sql#L1-L13
 ## Task 2.3
 Select all the expensive work Orders (above 300 actual cost) that happened throught January 2004.
-https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/211755dbdb85cf68ffcf0d17135c643348101392/Big-Query-Tasks/Basic-SQL/2-3.sql#L1-L7
+https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/b3d240ae6391cbbde7cadbb3c8696ec6357ef5dc/Big-Query-Tasks/Basic-SQL/2-3.sql#L1-L7
 ## Task 3.1
 Your colleague has written a query to find the highest sales connected to special offers. The query works fine but the numbers are off, investigate where the potential issue lies.
-https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/211755dbdb85cf68ffcf0d17135c643348101392/Big-Query-Tasks/Basic-SQL/3-1.sql#L1-L21
+https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/b3d240ae6391cbbde7cadbb3c8696ec6357ef5dc/Big-Query-Tasks/Basic-SQL/3-1.sql#L1-L21
 ## Task 3.2
 Your colleague has written this query to collect basic Vendor information. The query does not work, look into the query and find ways to fix it. Can you provide any feedback on how to make this query be easier to debug/read?
-https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/211755dbdb85cf68ffcf0d17135c643348101392/Big-Query-Tasks/Basic-SQL/3-2.sql#L1-L27
+https://github.com/simuxakadiscgolfgod/Turing-Data-Projects/blob/b3d240ae6391cbbde7cadbb3c8696ec6357ef5dc/Big-Query-Tasks/Basic-SQL/3-2.sql#L1-L27
